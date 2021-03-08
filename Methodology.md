@@ -48,7 +48,7 @@
       producer on each production day.
 
 
-1. The team will track its plan on  [Trello](trello.com), [HacknPlan](HacknPlan.com), or [a GitHub project board](https://github.com/features/project-management/).
+1. The team will track its plan on [HacknPlan](HacknPlan.com).
 
     - Each board will have the following top-level lists:
         - _Not Yet Started_ for work items that are part of the sprint but have not yet been started;
