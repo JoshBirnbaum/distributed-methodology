@@ -90,6 +90,8 @@
    - It should be referenced during or before stand-up meetings in order to
      provide feedback to the team about what they have learned and accomplished
      during the iteration.
+   - The burndown chart, if maintained on Google Sheets, can be 
+     [integrated into HacknPlan](https://www.youtube.com/watch?v=hfbcO7fxa2g).
 
 
 1. All team members maintain effort only on tasks that are part of the current
