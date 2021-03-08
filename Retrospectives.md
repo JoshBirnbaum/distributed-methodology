@@ -82,7 +82,12 @@ step in the retrospective.
 ## After the Retrospective
 
 Reasonably soon after the meeting, the facilitator writes a retrospective
-report, which is circulated among the team and shared with the mentor.
+report. This report provides the team with a record of the meeting. As such, it
+must include a copy of the Trello board along with a summary of major themes and
+findings. Circulating the report among the team ensures that this section
+represents the opinions of the team and not just the perspective of the
+facilitator. The report must also clearly present any changes to the methodology
+that were approved by the team during the discussion. 
 
 ## References
 

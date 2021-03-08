@@ -19,19 +19,25 @@ Students track their time that they commit to the project.
 Most of these hours will be during scheduled studio meetings, which should
 simplify record-keeping.
 
-At the end of an iteration, each student reports on the extent to which they
-kept their commitment to the team. Two parts of this end-of-iteration report
-are the same for all students.
+At the end of an iteration, each student provides a three-part report on their
+commitments and contributions during the sprint. Two parts of this
+end-of-iteration report are the same for all students.
 
 - A statement of hourly commitment
 - A statement of commitment to the methodology
 
 The third part is different depending on whether a student facilitated
-the retrospective meeting. A student who does not facilitate the meeting
-is expected to write a short reflection on one particular contribution
-they made during the past iteration. This is essentially a reflection
-on a portfolio piece, an intentional thinking about how your work
-affected your team.
-The student who facilitated the meeting may instead submit the retrospective
-report to fulfill this obligation.
+the retrospective meeting. The student who facilitates the meeting may submit
+the retrospective report. 
 
+Other students submit a portfolio piece and reflection. The portfolio piece is
+an artifact that you created during the sprint that manifests your contribution.
+Examples include artwork, audio, documentation, paper prototypes, and source
+code. The reflection is an essay that contextualizes the piece, emphasizing how
+this work affected your team. Note that I use &ldquo;essay&rdquo; in the
+classical sense: an _essay_ is an attempt to understand, and hence, it must be
+clear and it must support its argument with theory and evidence. Put another
+way, the writing the reflection essay is training for reflective practice, for
+lifetime learning, and for presenting your work to potential employers. As such,
+it also provides the instructor with assessment material that is required for a
+Tier 3 UCC course.
