@@ -63,10 +63,10 @@ Others suggest that user stories should be more narrative, more like the
 colloquial use of the word "stories." For example, one might write a user
 story like this:
 
-> The teacher opens up a slide show that shows highlighted broken code. The first slide highlights the broken code. The following slides will hihglight the edits and steps of fixing the code. At the end of the show there is highlighted correct code.
+> The teacher opens up a slide show that shows highlighted broken code. The first slide highlights the broken code. The following slides will highlight the edits and steps of fixing the code. At the end of the show there is highlighted correct code.
 
 Regardless of the format used to articulate the story, the team will probably
-want to come up with a short name to quickly reference the story (such as "Debugging Exercize").
+want to come up with a short name to quickly reference the story (such as "Debugging Exercise").
 The full name of the story then can be given in the description of the card.
 
 In either case, a crucial part of describing a feature is to include
