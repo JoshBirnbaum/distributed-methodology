@@ -118,3 +118,6 @@
 1. The team chooses a version control system and follows the conventions for that
    system.
     - This could be google docs, github, or any other suitable version control.
+
+
+1. When interacting with any outside of the team, including but not limited to, any communication (via email, slack or other) or class presentations will be reported to the project mentor.
