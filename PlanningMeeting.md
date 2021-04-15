@@ -3,13 +3,9 @@
 This document provides detailed notes about the expectations of an
 iteration planning meeting. 
 
-## Caveats
-
-For our purposes, a &ldquo;board&rdquo; may be on Trello, HackNPlan, or GitHub.
-I have found no digital tool that is robust as an actual whiteboard in a shared
-physical location, but these tools will have to do.
-
 ## Board Configuration
+
+The board refers to the whiteboard in the classroom. After or during the planning meeting the team will translate the plan written down on the whiteboard to its online board of choice (currently Hack N' Plan).
 
 The board consists of the following columns, as outlined in [the methodology](Methodology.md):
 
@@ -54,31 +50,23 @@ experience.
 
 Each feature is expressed as a _user story_. This technique comes from
 agile software development as a way of keeping the focus on adding value
-to the user--in our case, the player. There are several different philosophies about how to articulate the stories. A popular one that I have used is
+to the user--in our case, any member of the community. There are several different philosophies about how to articulate the stories. A popular one that I have used is
 [Mike Cohn's format](https://www.mountaingoatsoftware.com/agile/user-stories).
 His format names stories in the format:
 
 > As a _role_, I want _goal_ [so that _reason_].
 
-An example that might come up in a platform or open-world game is: As an
-explorer, I want to jump so that I can reach new areas. Note that here, I'm
-drawing casually from [Bartle's player
-typology](https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types) to
-contextualize what kind of player might do this, although I could also make use
-of other techniques such as
-[personas](http://www.agilemodeling.com/artifacts/personas.htm).
+An example that might come up in this project: As an
+teacher, I want to show my class examples of broken code and the proccess of fixing that broken code so that I can teach them how to debug their own code. One technique to artculate the user is through [personas](http://www.agilemodeling.com/artifacts/personas.htm).
 
 Others suggest that user stories should be more narrative, more like the 
 colloquial use of the word "stories." For example, one might write a user
 story like this:
 
-> The player presses right on the controller, and Mario runs that 
-direction on the screen. He runs under a box emblazoned with a question mark.
-The player presses 'A', causing Mario to jump straight up with a sproing sound.
-Mario hits his head on the box, which shakes and produces a chime and a coin.
+> The teacher opens up a slide show that shows highlighted broken code. The first slide highlights the broken code. The following slides will hihglight the edits and steps of fixing the code. At the end of the show there is highlighted correct code.
 
 Regardless of the format used to articulate the story, the team will probably
-want to come up with a short name to quickly reference the story (such as "Jumping").
+want to come up with a short name to quickly reference the story (such as "Debugging Exercize").
 The full name of the story then can be given in the description of the card.
 
 In either case, a crucial part of describing a feature is to include

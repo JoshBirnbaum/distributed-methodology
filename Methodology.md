@@ -20,7 +20,7 @@
 
 1. Use Slack for team communication.
     - The `#general` and `#random` channels are available for studio-wide communication.
-    - Each team sets up its own channels as needed, giving each a recognizable
+    - The team may set up its own channels as needed, giving each a recognizable
       prefix corresponding to the project. 
 
 
@@ -120,4 +120,4 @@
     - This could be google docs, github, or any other suitable version control.
 
 
-1. When interacting with any outside of the team, including but not limited to, any communication (via email, slack or other) or class presentations will be reported to the project mentor.
+1. When interacting with any outside of the team, including but not limited to, any communication (via email, slack, or other) or class presentations will be reported to the project mentor.
