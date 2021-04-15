@@ -12,13 +12,13 @@
       in particular areas.
 
 
-1. Each team formulates a _mission statement_. This is one or two sentences that
+1. The team formulates a _mission statement_. This is one or two sentences that
    describe the goal of the project.
    - The primary purpose of the mission statement is to allow the team to say
      &ldquo;no&rdquo; to good ideas.
 
 
-1. Use Slack for studio and team communication.
+1. Use Slack for team communication.
     - The `#general` and `#random` channels are available for studio-wide communication.
     - Each team sets up its own channels as needed, giving each a recognizable
       prefix corresponding to the project. 
@@ -36,16 +36,6 @@
 
     If a team member is unable to attend a meeting, they must post to the
     #general channel on Slack.
-
-
-1. Each team designates one team member as _producer_. 
-    - The producer role may change at any time by majority vote of the team,
-      although it is preferable to keep the role for an entire iteration.
-    - The producer's primary role is _to remove impediments to the team's progress_.
-    - The producer's secondary role is to communicate progress to the project
-      mentor in his capacity as executive producer.
-    - The producer or their designate gives an informal update to the executive
-      producer on each production day.
 
 
 1. The team will track its plan on [HacknPlan](HacknPlan.com).
@@ -83,7 +73,7 @@
        - A feature that has been validated and has no hours remaining on it
          should be moved to _Done_.
 
-1. The producer maintains a _burndown chart_, which plots time against the
+1. The project mentor maintains a _burndown chart_, which plots time against the
    estimated hours of work remaining. The chart is updated after each planning
    and standup meeting. 
    - The burndown chart may be kept on paper or digitally.
@@ -109,8 +99,7 @@
    resolution is not met, the issue should be brought to the project mentor.
 
 
-1. When faced with a design conflict (including software architecture,
-   implementation details, user interface design, and game design) where two or
+1. When faced with a design conflict (on any piece of work) where two or
    more team members disagree, monitor the amount of time spent on the
    discussion. If a resolution is not found within five minutes, take one of the
    following options:
@@ -126,5 +115,6 @@
    is distributed across the team.
 
 
-1. Each team chooses a version control system and follows the conventions for that
+1. The team chooses a version control system and follows the conventions for that
    system.
+    - This could be google docs, github, or any other suitable version control.
