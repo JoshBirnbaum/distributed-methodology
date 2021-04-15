@@ -7,12 +7,11 @@ academic studio course.
 ## Definitions
 
 It will help our communication to establish some definitions. We are one
-_studio_ that contains different _teams_. The students are therefore _team
-members_. The professor wears a few different hats: as a _project mentor_, he
-coaches you toward productive success; as an _executive producer_, he tries to
-keep you on track; as an _instructor_, he tries to teach you new things that
-will be useful to you and is responsible for reporting a grade and assessment
-data to the university.
+_team_. The students are therefore _team
+members_. The professor wears a few different hats: as a _blank_, he
+does _this_; as an _blank_, he
+does _this_; as an _blank_, he
+does _this_;
 
 A _production day_ is a day after the preproduction period that is not set aside
 for any other purpose. An _iteration_ or a _sprint_ is a period of time during
@@ -47,13 +46,13 @@ software](https://medium.com/@JoshuaKerievsky/stop-work-authority-d853f6a3c42d)
 provides guidance to us on how to maintain safety in the studio, whether
 in-person or distributed.
 
-We take an _iterative_ and _incremental_ to building software.
+We take an _iterative_ and _incremental_ to producing work.
 - _Iterative_ means that we work in iterations, with each iteration of
   production being bookended by a planning meeting at the beginning and review
   and retrospective meetings at the end.
 - _Incremental_ means that each iteration produces an increment that is an
   executable release or potentially shippable product. That is, each iteration
-  produces a playable game.
+  produces a product which can be used by the team or community.
 
-We believe that software&mdash;including video games&mdash;are made by human
+We believe that what we produce&mdash;are made by human
 beings, and so we respect [the Heart of Agile](https://heartofagile.com).
