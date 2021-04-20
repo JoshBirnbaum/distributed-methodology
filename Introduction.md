@@ -54,5 +54,5 @@ We take an _iterative_ and _incremental_ to producing work.
   executable release or potentially shippable product. That is, each iteration
   produces a product which can be used by the team or community.
 
-We believe that all of what we produce&mdash;are made by human
+We believe that all of the work we produce&mdash; is made by human
 beings, and so we respect [the Heart of Agile](https://heartofagile.com).

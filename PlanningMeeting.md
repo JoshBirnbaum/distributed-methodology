@@ -69,6 +69,8 @@ Regardless of the format used to articulate the story, the team will probably
 want to come up with a short name to quickly reference the story (such as "Debugging Exercise").
 The full name of the story then can be given in the description of the card.
 
+  - Keep in mind that most of the work we produce involves specific roles in which we can use to craft our user stories
+
 In either case, a crucial part of describing a feature is to include
 its _conditions of satisfaction_. These are the [specific, measurable,
 assignable, relevant, and timely](https://en.wikipedia.org/wiki/SMART_criteria)
