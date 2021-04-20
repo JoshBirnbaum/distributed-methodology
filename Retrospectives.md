@@ -5,7 +5,7 @@
 This document provides guidance for how to run distributed retrospectives.
 This guide can be reviewed by the whole team but is most important
 for the facilitator. The facilitator should be chosen by the team
-and does not have to be the producer.
+and does not have to be the project mentor.
 
 ## Goal
 
@@ -15,16 +15,12 @@ One way particular way this happens is by changing the methodology.
 
 ## Preparations
 
-Set up a [Trello](trello.com) board for the retrospective and ensure that
-the whole team has access to it. The board should have three columns:
+Set up a whiteboard for the retrospective. The board should have three columns:
 "What worked well," "What can be improved," "Appreciations," and 
 "Action Items".
 
-Make sure everyone can connect to the same videoconferencing solution
-such as [Zoom](zoom.us). 
-
 Prepare an ordering of team members that will be used for an early
-step in the retrospective.
+step in the retrospective. This will be used not only for speaking, but for an order to go up and write on the board.
 
 ## Agenda
 
@@ -37,8 +33,6 @@ step in the retrospective.
 
 1. *Check-in*: Let everyone know the order in which they will be invited to speak.
    In that order, each person briefly shares how they think the sprint went.
-   This is best done with video enabled and using gallery view, so that you
-   can see the faces of your teams.
    
    Note that this is not time for consensus-building: it is fine to quietly
    disagree. You may ask clarifying questions. A good way to approach this 
@@ -46,15 +40,15 @@ step in the retrospective.
    if you're on the same page.
 
 1. *Individual Reflections*: Set a timer for 8 minutes. During this time,
-   team members mute their audio and write their responses to the first
-   three columns on Trello. Don't copy anything to the shared board yet:
+   team members write their responses to the first
+   three columns on the whiteboard. Don't write anything on the board yet:
    just write them individually. 
 
    Remember that the fourth column is only used later in the meeting. 
    Do not add anything to it yet.
 
-1. *Gather Responses*: Once the timer goes off, team members copy their
-   responses to cards on Trello. 
+1. *Gather Responses*: Once the timer goes off, team members go up in the assigned order to write their
+   responses on the whiteboard. 
 
 1. *Read Appreciations*: Go through the appreciations column and let the
     person who shared each item read it aloud. 
@@ -62,11 +56,11 @@ step in the retrospective.
 1. *Group Responses*: Walk the team through the process of removing
     duplicates in the first two columns.
     This also provides an opportunity for team members
-    to clarify what has been written on the cards. 
+    to clarify what has been written in the collumns. 
 
 1. *Vote for discussion topics*: Team members vote on which items
     to discuss in more detail. Invite team members to add themselves
-    to cards in order to show their votes. There is no minimum or 
+    to items in order to show their votes. There is no minimum or 
     maximum number of votes.
 
 1. *Discuss*: Choose the top few (2&ndash;3) items based on votes and
