@@ -20,8 +20,7 @@ _planning meeting_, during which that iteration's goals are established. Each
 iteration ends with a _review meeting_, during which the results of the
 iteration are compared against the goals, and a _retrospective meeting_, during
 which the team reflects upon and improves their processes. Each iteration
-produces an _increment_, also known as a _potentially shippable product_ or an
-_executable release_.
+produces an _increment_, also known as a _potentially shippable product_.
 
 There will be opportunities to update the methodology as part of each
 retrospective meeting.

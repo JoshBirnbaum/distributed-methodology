@@ -5,7 +5,7 @@
 1. The team owns the project. There are many kinds of work to be done, and any
    work can be done by any team member. You are authorized to contribute in any
    way to the project. Some people will tend to work on particular aspects of
-   the game, but that is by choice, not as a rule.
+   the project, but that is by choice, not as a rule.
     - We foster [T-shaped
       skills](https://en.wikipedia.org/wiki/T-shaped_skills), such that all team
       members share core competencies, and individual team members provide depth
@@ -24,7 +24,7 @@
       prefix corresponding to the project. 
 
 
-1. We start each production day with a 4PM &ldquo;daily standup&rdquo; meeting,
+1. We start each production day with a &ldquo;daily standup&rdquo; meeting,
    during which each member reports on the following to their team:
     - What did you contribute since last time?
     - What do you plan to accomplish before next time?
@@ -85,7 +85,7 @@
 
 
 1. All team members maintain effort only on tasks that are part of the current
-   release.
+   iteration.
     - Corollary: Solve the problems you have, not the problems you might have later.
 
 

@@ -28,8 +28,7 @@ here are the other columns that are needed during the sprint.
 
 - _Needs Validation_: This column is for work that is completed but requires
   validation before it is considered done. The nature of this validation is
-  context-dependent. Source code requires peer review, features require
-  playtesting, other creative works require different lenses and perspectives.
+  context-dependent. Source code requires peer review, and other creative works require different lenses and perspectives.
   During a sprint, work that does not pass validation is moved back to
   _In Progress_.
 
@@ -45,7 +44,7 @@ During the second part of the meeting, the team commits to getting it done.
 
 This is the process that generates the work items that are put in the backlog.
 The key to writing a good feature is that it should be small enough to complete
-in a few days, and it should obviously and immediately add value to the player's
+in a few days, and it should obviously and immediately add value to the intended user's
 experience. 
 
 Each feature is expressed as a _user story_. This technique comes from
@@ -79,12 +78,7 @@ These should be listed as checklist items on the card.
 
 During or after feature articulation, the team should prioritize the stories in
 order of decreasing value to the user. That is, the stories that add the most
-value to the user should be highest priority. Keep in mind that there is an
-implicit dependency management process here as well: while it's true that your
-players may really enjoy your dynamic quest generation system, your RPG will
-have no value at all if players cannot move their heroes around the screen.
-&ldquo;Value&rdquo; is about _playability_ and not marketing or ungrounded
-concepts.
+value to the user should be highest priority. 
 
 ### Team Commitment
 
