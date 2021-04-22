@@ -24,7 +24,7 @@ end-of-iteration report are the same for all students.
 
 - A statement of hourly commitment
 - A statement of commitment to the methodology
-- A journal entry for what you learned over the past iteration. (Not what happened or what you did)
+- A journal entry for what you learned over the past iteration and how it relates to your future work. (Not just what happened or what you did).
 
 The fourth part is different depending on whether a student facilitated
 the retrospective meeting. The student who facilitates the meeting may submit
