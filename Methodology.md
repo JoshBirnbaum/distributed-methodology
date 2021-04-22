@@ -49,7 +49,7 @@
           of the current sprint but may be picked up in the future.
 
     - Each card in a list represents a "work item", most of which are features expressed
-     from the player's perspective. 
+     from the users's perspective. 
        - Include, clearly and consistenly on each card, the total number of
          hours estimated remaining to complete it.
        - Non-atomic work items use named checklists to track the tasks necessary
@@ -69,7 +69,7 @@
        - A feature that is complete to the working group's satisfaction is moved
          to _Needs Validation_, with its estimate updated to be the time for
          validation. The nature of validation is task-dependent, but
-         frequently-used methods include code review and playtesting.
+         frequently-used methods include some form of code/peer review.
        - A feature that has been validated and has no hours remaining on it
          should be moved to _Done_.
 
