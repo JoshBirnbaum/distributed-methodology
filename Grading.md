@@ -8,7 +8,7 @@ based on their engagement with the academic studio model.
 
 This document assumes that students are enrolled in a 3&nbsp;credit-hour course
 over a 15-week semester, which, according to federal student aid law, should
-equate to nine effort-hours per week. If these do not match your situation, as this course is offered as a 1,2, and 3 credit course, adjust the metrics appropriately.
+equate to nine effort-hours per week. If these do not match your situation, as this course is offered as a 1, 2, and 3 credit course, adjust the metrics appropriately.
 
 This document also assumes that students are acting in good faith. 
 
@@ -18,14 +18,15 @@ Students track their time that they commit to the project.
 Most of these hours will be during scheduled team meetings, which should
 simplify record-keeping.
 
-At the end of an iteration, each student provides a three-part report on their
-commitments and contributions during the sprint. Two parts of this
+At the end of an iteration, each student provides a four-part report on their
+commitments and contributions during the sprint. Three parts of this
 end-of-iteration report are the same for all students.
 
 - A statement of hourly commitment
 - A statement of commitment to the methodology
+- A journal entry for what you learned over the past iteration. (Not what happened or what you did)
 
-The third part is different depending on whether a student facilitated
+The fourth part is different depending on whether a student facilitated
 the retrospective meeting. The student who facilitates the meeting may submit
 the retrospective report. 
 
