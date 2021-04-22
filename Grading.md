@@ -8,8 +8,7 @@ based on their engagement with the academic studio model.
 
 This document assumes that students are enrolled in a 3&nbsp;credit-hour course
 over a 15-week semester, which, according to federal student aid law, should
-equate to nine effort-hours per week. If these do not match your situation,
-adjust the metrics appropriately.
+equate to nine effort-hours per week. If these do not match your situation, as this course is offered as a 1,2, and 3 credit course, adjust the metrics appropriately.
 
 This document also assumes that students are acting in good faith. 
 
