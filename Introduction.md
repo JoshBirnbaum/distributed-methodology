@@ -8,10 +8,9 @@ academic studio course.
 
 It will help our communication to establish some definitions. We are one
 _team_. The students are therefore _team
-members_. The professor wears a few different hats: as a _blank_, he
-does _this_; as an _blank_, he
-does _this_; as an _blank_, he
-does _this_;
+members_. The professor wears a few different hats: as an _instructor_, he
+teaches you new things and is responsible for reporting a grade and assessment data to the university. as an _blank_, he
+does _this_.
 
 A _production day_ is a day after the preproduction period that is not set aside
 for any other purpose. An _iteration_ or a _sprint_ is a period of time during

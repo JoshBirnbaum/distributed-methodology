@@ -66,7 +66,7 @@ step in the retrospective. This will be used not only for speaking, but for an o
 1. *Discuss*: Choose the top few (2&ndash;3) items based on votes and
     open the floor for discussion. 
     When there is an action item, ask for a champion. If there is consensus
-    and a champion, then document both on the fourth column of Trello.
+    and a champion, then document both on the fourth column of the whiteboard.
 
 1. *Close*: Conclude the meeting with a quick meta-retrospective. Ask
     the team about the retrospective itself: what was good, what was bad,
@@ -77,7 +77,7 @@ step in the retrospective. This will be used not only for speaking, but for an o
 
 Reasonably soon after the meeting, the facilitator writes a retrospective
 report. This report provides the team with a record of the meeting. As such, it
-must include a copy of the Trello board along with a summary of major themes and
+must include a copy of the board along with a summary of major themes and
 findings. Circulating the report among the team ensures that this section
 represents the opinions of the team and not just the perspective of the
 facilitator. The report must also clearly present any changes to the methodology

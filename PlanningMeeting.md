@@ -87,8 +87,7 @@ Started_ column. Here is an algorithm to describe the process. Note that the
 estimates are done in clock hours, not person-hours.
 
 1. The team looks at the top priority item from the backlog and estimates how
-   long it will take to complete, noting this on the card. (For example, in
-   Trello, I put this number in parentheses before the name of the card.)
+   long it will take to complete, noting this on the card.
 
     - The estimate needs to include the time it takes to integrate and 
     validate the feature. 
