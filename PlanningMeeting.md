@@ -7,6 +7,8 @@ iteration planning meeting.
 
 The board refers to the whiteboard in the classroom. After or during the planning meeting the team will translate the plan written down on the whiteboard to its online board of choice (currently Hack N' Plan).
 
+a whiteboard is more robust and useful than any online board, however it is also useful to be able to look at the board anytime and anywhere which is why we use both the physical whiteboard and an online replication.
+
 The board consists of the following columns, as outlined in [the methodology](Methodology.md):
 
 - _Backlog_: This column contains all of the work items that the team envisions
