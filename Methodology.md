@@ -2,7 +2,7 @@
 
 ## Rules
 
-1. The team owns the project. There are many kinds of work to be done, and any
+1. The team owns the project and works that come out of it. There are many kinds of work to be done, and any
    work can be done by any team member. You are authorized to contribute in any
    way to the project. Some people will tend to work on particular aspects of
    the project, but that is by choice, not as a rule.
