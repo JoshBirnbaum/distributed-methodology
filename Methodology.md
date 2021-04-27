@@ -35,7 +35,7 @@
     to meet commitments.
 
     If a team member is unable to attend a meeting, they must post to the
-    #general channel on Slack.
+    #general channel on Slack. This is because we are one team and it is therefore important to the team if a fellow member cannot show up.
 
 
 1. The team will track its plan on [HacknPlan](HacknPlan.com).
@@ -72,6 +72,12 @@
          frequently-used methods include some form of code/peer review.
        - A feature that has been validated and has no hours remaining on it
          should be moved to _Done_.
+
+1. The team designates a project manager who has a few extra responsibilities. This person can change throughout the smester to share the responsibility.
+   - The project manager role may change at any time by majority vote, but it is prefereable to keep the role for an entire iteration before changing.
+   - The project manager's primary role is to _remove impediments to the teams progress_.
+   - The manager's secondary role is to communicate progress to the project mentor.
+   - The manager or a designate gives an informal update to the project mentor each production day.
 
 1. The project mentor maintains a _burndown chart_, which plots time against the
    estimated hours of work remaining. The chart is updated after each planning
