@@ -4,6 +4,8 @@ This document provides an introduction to the methodology. It includes
 definitions and principles appropriate for incorporating the methodology into an
 academic studio course.
 
+Originally desgigned for a studio containing multiple teams producing games and updated to work for one larger collabrative team involved with computer science and community outreach projects.
+
 ## Definitions
 
 It will help our communication to establish some definitions. We are one
