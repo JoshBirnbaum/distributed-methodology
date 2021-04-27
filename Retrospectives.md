@@ -13,14 +13,15 @@ The goal of the retrospective is to understand what we learned and what we have
 yet to learn about making the project. This improves the team's operation.
 One way particular way this happens is by changing the methodology.
 
+A retrospective looks back on what happened so that the team can keep moving forward.
+
 ## Preparations
 
 Set up a whiteboard for the retrospective. The board should have three columns:
 "What worked well," "What can be improved," "Appreciations," and 
 "Action Items".
 
-Prepare an ordering of team members that will be used for an early
-step in the retrospective. This will be used not only for speaking, but for an order to go up and write on the board.
+It might be helpful to designate in order for team members to speak and go up the whiteboard later on in the retrospective.
 
 ## Agenda
 
@@ -31,8 +32,7 @@ step in the retrospective. This will be used not only for speaking, but for an o
    everyone did the best job they could, given what they knew at the time, their
    skills and abilities, the resources available, and the situation at hand.
 
-1. *Check-in*: Let everyone know the order in which they will be invited to speak.
-   In that order, each person briefly shares how they think the sprint went.
+1. *Check-in*: Each person briefly shares how they think the sprint went.
    
    Note that this is not time for consensus-building: it is fine to quietly
    disagree. You may ask clarifying questions. A good way to approach this 
@@ -42,13 +42,13 @@ step in the retrospective. This will be used not only for speaking, but for an o
 1. *Individual Reflections*: Set a timer for 8 minutes. During this time,
    team members write their responses to the first
    three columns on the whiteboard. Don't write anything on the board yet:
-   just write them individually. 
+   just write them individually. Write down your responses on sticky notes that can be placed in each column.
 
    Remember that the fourth column is only used later in the meeting. 
    Do not add anything to it yet.
 
 1. *Gather Responses*: Once the timer goes off, team members go up in the assigned order to write their
-   responses on the whiteboard. 
+   responses on the whiteboard. (Or place their sticky note with the response on it).
 
 1. *Read Appreciations*: Go through the appreciations column and let the
     person who shared each item read it aloud. 
@@ -71,7 +71,7 @@ step in the retrospective. This will be used not only for speaking, but for an o
 1. *Close*: Conclude the meeting with a quick meta-retrospective. Ask
     the team about the retrospective itself: what was good, what was bad,
     what would they change. Be sure to write these down for inclusion
-    in the retrospective report. Thank the participants.
+    in the retrospective report. Thank the participants. 
 
 ## After the Retrospective
 
