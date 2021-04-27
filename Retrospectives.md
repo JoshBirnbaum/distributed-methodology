@@ -85,5 +85,5 @@ that were approved by the team during the discussion.
 
 ## References
 
-This guide was inspired by [Yassal Sundman's post on the Crisp blog](https://blog.crisp.se/2018/10/19/yassalsundman/remote-or-distributed-retrospectives)
-and [Martin Fowler's recommendations on effective video calls](https://martinfowler.com/articles/effective-video-calls.html).
+This guide was _originally_ inspired by [Yassal Sundman's post on the Crisp blog](https://blog.crisp.se/2018/10/19/yassalsundman/remote-or-distributed-retrospectives)
+and [Martin Fowler's recommendations on effective video calls](https://martinfowler.com/articles/effective-video-calls.html). It has since been updated for in person retrospectives using a physical whiteboard.
