@@ -4,7 +4,7 @@ This repository contains methodologies appropriate for distributed teams who are
 following the [academic studio](https://dl.acm.org/doi/10.1145/2732157)
 educational model.
 
-Originally desgigned for a studio containing one or more teams producing games and updated to work for one collabrative team involved with computer science and community outreach projects.
+Originally designed for a studio containing one or more teams producing games and updated to work for one collabrative team involved with computer science and community outreach projects.
 
 ## Contents
 
